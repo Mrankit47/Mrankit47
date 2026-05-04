@@ -1,5 +1,5 @@
 # 💫 About Me:
-• I'm looking to collaborate on SaaS products.<br>• I'm looking for help with scaling products & growth strategies.<br>•  Ask me about Full-stack development.<br>•  AI integrations, In any Projects.<br>•  Fun fact I built multiple times RBAC Projects
+• I'm a full stack & python developer • I'm looking to collaborate on SaaS products.<br>• I'm looking for help with scaling products & growth strategies.<br>•  Ask me about Full-stack development.<br>•  AI integrations, In any Projects.<br>•  Fun fact I built multiple times RBAC Projects
 
 
 ## 🌐 Socials:
